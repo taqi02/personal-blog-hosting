@@ -34,6 +34,8 @@ A simple personal blog website with a clean and responsive design. The blog incl
 ## How to Run  
 1. Open index.html in your browser.
 
+---
+
 ## Deployment
 
 1. You can host this project for free using:
@@ -42,11 +44,15 @@ A simple personal blog website with a clean and responsive design. The blog incl
 4. Surge.sh
 5. Render (Static Sites)
 
+---
+
 ## Future Improvements
 
 1. Add user authentication (login system).
 2. Connect to a database for dynamic blog posts.
 3. Implement a comment section.
+
+---
 
 ## Author
 
