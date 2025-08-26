@@ -24,10 +24,7 @@ A simple personal blog website with a clean and responsive design. The blog incl
 ## Screenshots  
 
 ### Homepage  
-![Homepage Screenshot](screenshots/homepage.png)  
-
-### Blog Posts Page  
-![Blog Posts Screenshot](screenshots/posts.png)   
+<img width="1919" height="1030" alt="Image" src="https://github.com/user-attachments/assets/9e0800c1-0654-4f44-8380-24053bb3b2d9" />    
 
 ---
 
