@@ -16,7 +16,9 @@ A simple personal blog website with a clean and responsive design. The blog incl
 ## Project Structure  
 
 ├── index.html # Main blog homepage
+
 ├── style.css # Stylesheet for design
+
 ├── posts.html # Blog posts listing page
 
 ---
